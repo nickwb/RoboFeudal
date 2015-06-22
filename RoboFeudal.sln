@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboFeudal.Simulation", "RoboFeudal.Simulation\RoboFeudal.Simulation.csproj", "{79D9B9DC-22D5-4D4B-96E3-21E53FE1247D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboFeudal.AiContracts", "RoboFeudal.AiContracts\RoboFeudal.AiContracts.csproj", "{E5E1088C-963D-4D00-A25C-17B4E5A7630F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboFeudal.Server", "RoboFeudal.Server\RoboFeudal.Server.csproj", "{5D226D05-46DA-4264-9638-FEE7E4124658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboFeudal.AiHost", "RoboFeudal.AiHost\RoboFeudal.AiHost.csproj", "{451F610A-C139-4FBA-A864-70EAE50D90E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D9B9DC-22D5-4D4B-96E3-21E53FE1247D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D9B9DC-22D5-4D4B-96E3-21E53FE1247D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D9B9DC-22D5-4D4B-96E3-21E53FE1247D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D9B9DC-22D5-4D4B-96E3-21E53FE1247D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5E1088C-963D-4D00-A25C-17B4E5A7630F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5E1088C-963D-4D00-A25C-17B4E5A7630F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5E1088C-963D-4D00-A25C-17B4E5A7630F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5E1088C-963D-4D00-A25C-17B4E5A7630F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D226D05-46DA-4264-9638-FEE7E4124658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D226D05-46DA-4264-9638-FEE7E4124658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D226D05-46DA-4264-9638-FEE7E4124658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D226D05-46DA-4264-9638-FEE7E4124658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451F610A-C139-4FBA-A864-70EAE50D90E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451F610A-C139-4FBA-A864-70EAE50D90E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451F610A-C139-4FBA-A864-70EAE50D90E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451F610A-C139-4FBA-A864-70EAE50D90E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
